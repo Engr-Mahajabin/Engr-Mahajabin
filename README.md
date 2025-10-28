@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG0po91U8dJxg/profile-displaybackgroundimage-shrink_350_1400/B56ZhnkdpzHQAY-/0/1754084269975?e=1756944000&v=beta&t=fnQBLI4De9p4ewKMZ4HnHwNyeO_ZAaUal_YtO5AaNC0">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHGbTVd6cjP0A/profile-displaybackgroundimage-shrink_350_1400/B56ZiPA4ttHUAc-/0/1754746035545?e=1762992000&v=beta&t=yyKmMPv9sp5eww4uO3o8rAx8r4OuDqCWYXolHVYsPS8">
 <h1 align="center">Hi 👋, I'm Mahajabin Akter Ritu</h1>
 <h3 align="center">Software Engineer | Competitive Programmer | Full-Stack MERN Developer | WordPress Expert | Cybersecurity Learner</h3>
 
